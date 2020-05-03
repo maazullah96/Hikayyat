@@ -1,0 +1,60 @@
+#lol {
+  display: inherit;
+  flex-direction: column;
+  align-items: center;
+  /* max-width: 700px; */
+  margin: 20px auto;
+  font-size: 28px;
+  font-family: serif;
+}
+
+#lol p {
+  margin-top: 1rem;
+  /* line-height: 1.6rem; */
+}
+
+/* #lol p:first-child:first-letter {
+  font-size: 3rem;
+  font-family: Montserrat, sans-serif;
+} */
+
+/* #lol p:first-line {
+  font-family: Montserrat, sans-serif;
+} */
+
+.scrollable {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  height: 300px;
+  overflow: auto;
+  scrollbar-width: none;
+  font-size: smaller;
+  text-align: justify;
+  text-align-last: center;
+  /* justify-content: center; */
+}
+
+.containers {
+  width: 100%;
+  font-family: "Open Sans";
+  font-size: 24px;
+  margin-top: 2%;
+}
+
+.diff {
+  margin-left: 10px;
+}
+.lefted {
+  float: left;
+  /* width: 100px; */
+}
+
+.righted {
+  float: right;
+}
+
+#centered {
+  display: inline-block;
+  margin: 0 auto;
+  /* width:100px; */
+}

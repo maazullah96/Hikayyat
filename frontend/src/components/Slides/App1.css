@@ -1,0 +1,20 @@
+/* .share-reveal a + a {
+  margin-left: 10px;
+} */
+
+.share-reveal a {
+  margin-top: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  height: 34px;
+  line-height: 32px;
+  padding: 20px 50px;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 12px;
+  vertical-align: top;
+  text-transform: uppercase;
+  box-sizing: border-box;
+}
