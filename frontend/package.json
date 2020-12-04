@@ -30,7 +30,7 @@
     "simple-react-validator": "^1.2.2",
     "yup": "^0.27.0",
     "gh-pages": "^2.0.1",
-    "highlight.js": "^9.15.8",
+    "highlight.js": "^10.4.1",
     "prop-types": "^15.7.2"
   },
   "scripts": {
